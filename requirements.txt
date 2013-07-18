@@ -1,3 +1,2 @@
 nose
 sphinx
-biopython>=1.62b
